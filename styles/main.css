@@ -112,7 +112,8 @@ body {
   left: 41.5%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -35%;
+  top: 45%;
+  height: 10%;
   width: 20%;
 }
 
