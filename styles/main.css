@@ -113,7 +113,8 @@ body {
   position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
-  width: 30px;
+  width: 10%;
+  height: auto;
 }
 
 .baloons img {
