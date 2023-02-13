@@ -112,8 +112,9 @@ body {
   left: 41.5%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -35%;
+  top: -32%;
   width: 120px;
+  height: 40px;
 }
 
 .baloons img {
